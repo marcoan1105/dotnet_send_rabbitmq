@@ -1,0 +1,1 @@
+# dotnet_send_rabbitmq
